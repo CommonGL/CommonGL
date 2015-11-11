@@ -1,0 +1,23 @@
+{
+  "name": "CommonGL",
+  "version": "0.0.0",
+  "description": "Collection of glsl code that can be used in either OpenGL or WebGL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CommonGL/CommonGL.git"
+  },
+  "keywords": [
+    "glsl",
+    "opengl",
+    "webgl"
+  ],
+  "author": "CommonGL Developers",
+  "license": "Apache License",
+  "bugs": {
+    "url": "https://github.com/CommonGL/CommonGL/issues"
+  }
+}
